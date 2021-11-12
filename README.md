@@ -1,4 +1,4 @@
-<h3 align="center">행복하세요</h3>
+<h3 align="center">❤</h3>
 
 <h3 align="center"></h3>
 <div align="center">
