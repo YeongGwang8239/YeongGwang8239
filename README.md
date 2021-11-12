@@ -1,4 +1,5 @@
-<h3 align="center">뭘보냐고</h3>
+<h3 align="center">뭘봐</h3>
+<h2 align="center">뭘보냐고</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
