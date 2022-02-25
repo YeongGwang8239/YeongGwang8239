@@ -9,7 +9,7 @@
 &nbsp
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/807077862880444456/946760752046440488/768px-Python-logo-notext.png" alt="Python" width="45">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/946765385108185158/java_icon_130901.png" alt="Java" width="45">
+<!--     <img src="https://cdn.discordapp.com/attachments/807077862880444456/946765385108185158/java_icon_130901.png" alt="Java" width="45"> -->
     <img src="https://cdn.discordapp.com/attachments/807077862880444456/946762797314867220/img.png" alt="JS" width="45">
 
 </div>
