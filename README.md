@@ -1,3 +1,3 @@
 <h1 align="center">❤</h1>
-<img src=https://velog.velcdn.com/images/e_juhee/post/5204d361-f819-4a2c-91f0-dc97bd0b77a8/image.png>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
 
